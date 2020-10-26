@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/mreschultz/employee-template-generator/issues"
   },
-  "homepage": "https://github.com/mreschultz/employee-template-generator#readme"
+  "homepage": "https://github.com/mreschultz/employee-template-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.1"
+  }
 }
