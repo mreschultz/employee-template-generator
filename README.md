@@ -1,6 +1,8 @@
 # employee-template-generator
 
-# This app generates an employee roster which consists of employee types:
+Download the files and use 'node app.js' to run it in integrated terminal.
+
+# This app generates an employee roster in an html file in the output folder which consists of employee types:
 
 Intern
 Engineer
